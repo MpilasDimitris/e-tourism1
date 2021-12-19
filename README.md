@@ -2,3 +2,4 @@
 με σιγουρια και ευκολία τον επόμενο τους προορισμό.
 
 Οι τεχνολογίες που χρησιμοποιηθηκαν: PHP,JAVASCRIPT,JQUERY,HTML,CSS,BOOTSTRAP,AJAX
+Το link της εφαρμογής: https://users.iee.ihu.gr/~it154582/CityScapes/
